@@ -1,4 +1,4 @@
-// FileName: App.js
+
 
 import styled from "styled-components";
 import Tracker from "./components/Tracker";
